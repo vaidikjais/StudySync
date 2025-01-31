@@ -1,0 +1,2 @@
+# StudySync
+Html, Css project
